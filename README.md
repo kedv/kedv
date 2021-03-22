@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kedv
+- 👀 I’m interested in GameDevelopment
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on UsagiSoft
+- 📫 How to reach me info@kedv.one
